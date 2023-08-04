@@ -41,7 +41,7 @@ int esc_seq () {
 int manipulators () {
     /* 
     The setw() manipulator :  Sets the width of the next output field to some 
-    x (x may be a var but it should and integer) characters. It's commonly 
+    x (x may be a var but it should be an integer) characters. It's commonly 
     used to format text in columns, ensuring a specific width for each field.
     */
     cout <<endl<<"Students of Class 12 CS" <<endl <<"Total score : 35" <<endl;
