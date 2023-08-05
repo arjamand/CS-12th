@@ -41,4 +41,6 @@ When the program is executed, it will output the sum of `a` and `b`, followed by
 The sum of the two variables is 22
 The mean of the two variables is 11
 ```
+## Code Snippet
+![code snippet](code-snippet.png)
 
