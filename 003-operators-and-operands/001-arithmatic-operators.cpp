@@ -4,9 +4,10 @@
 using namespace std ;
 
 int main(){
+
     int x = 12 ;
     int y = 6 ;
-    
+       
     // adding two intergers x and y -- operator : " + "
     cout <<"The Sum of "<< x <<" and "<< y <<" is "<< x+y <<endl;
 
@@ -24,31 +25,39 @@ int main(){
 
     /* 
        incrementing the value of x by 1 
-       pre-increment : incrementing the value of x to 1
-       eg. x = 1 + x
+       pre-increment : The value of x is increased by one at the instant .
+       x++ :
+           x = x+1
     */
     cout <<"The pre-increment of "<< x <<" is "<< ++x <<endl;
 
     /* 
        incrementing the value of x by 1 
-       post-increment : incrementing 1 on x
-       eg. x = x +1
+       post-increment : the value of the variable will be incremented 
+       just before executing the next command .
+       y++ :
+          step 1 ; y = y 
+          step 2 ; y = y + 1
     */
-    cout <<"The post-increment of "<< x <<" is "<< x++ <<endl;
+    cout <<"The post-increment of " << y <<" is " << y++ <<endl;
 
     /* 
        decrementing the value of x by 1 
-       pre-decrement : decrementing the value of x from 1
-       eg. x = 1 - x
+       pre-decrement : The value of x is decreased by one at the instant .
+       --x :
+            x = x -1 
     */
-    cout <<"The pre-decrement of "<< x <<" is "<< --x <<endl;
+    cout <<"The pre-decrement of " <<x <<" is " <<--x <<endl;
 
     /* 
        decrementing the value of x by 1 
-       post-decrement : decrementing1 from the value of x
-       eg. x = x - 1
+       post-decrement : the value of the variable will be incremented 
+       just before executing the next command .
+       y-- :
+          step 1 ; y = y 
+          step 2 ; y = y - 1
     */
-    cout <<"The post-decrement of "<< x <<" is "<< x-- <<endl;
+    cout <<"The post-decrement of "<< y <<" is " <<y-- <<endl;
     
 
 }
