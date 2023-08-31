@@ -1,5 +1,11 @@
 // 2023-08-31 06:23:48
 
+/*
+Modify prevously practiced code where we 
+stored user inputs in variables and use arrays 
+this time .
+*/
+
 #include <iostream>
 using namespace std;
 
