@@ -1,0 +1,18 @@
+PS C:\Users\ar\Desktop\Exam Practicals\12.2.3> g++ code.cpp -o code  
+PS C:\Users\ar\Desktop\Exam Practicals\12.2.3>.\code
+
+Guess the nuber between 1 and 50 .
+No attempt limit .
+Enter '0' to exit .
+
+Guess : 22
+Wrong - You guessed lower .
+
+Guess : 45
+Wrong - You guessed higher .
+
+Guess : 38
+Wrong - You guessed higher .
+
+Guess : 33
+Yay !!! You got it right .
