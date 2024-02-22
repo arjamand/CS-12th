@@ -1,9 +1,9 @@
-# Practical No. 2: Nested If Statement
+## Practical No. 2 - 12.1.3 - Write a program using nested if statement.
 
-## Objective:
+### Objective:
 The objective of this practical is to understand the usage of nested `if` statements in C++.
 
-## Program Description:
+### Program Description:
 In this program, we ask the user to guess a number between 20 and 30. If the guessed number matches the predefined number (26 in this case), it displays a success message; otherwise, it displays a failure message.
 
 ### Code Snapshot:
@@ -12,7 +12,7 @@ In this program, we ask the user to guess a number between 20 and 30. If the gue
 ### Output Snapshot:
 ![Output Snapshot](output-snap.png)
 
-## How to Use:
+### How to Use:
 1. Compile the provided code using a C++ compiler.
 2. Run the executable file.
 3. Input a number between 20 and 30 when prompted.

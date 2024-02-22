@@ -1,4 +1,4 @@
-## Practical No. 3: Using Switch Statement
+## Practical No. 3 - 12.1.5 - Write a program using switch statement
 
 ### Objective:
 The objective of this practical is to understand the usage of the switch statement in C++.
