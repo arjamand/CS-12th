@@ -1,4 +1,4 @@
-## Practical No. 6 - 13.1.7 Write a C++ program which stores numeric values in a one dimensional array using for loop and finds the highest, lowest and average values.
+## Practical No. 7 - 13.1.7 Write a C++ program which stores numeric values in a one dimensional array using for loop and finds the highest, lowest and average values.
 
 
 ### Objective:

@@ -1,4 +1,4 @@
-## Practical No. 7 - 13.2.5 Write a C++ program for adding/ subtracting/ multiplying two integer matrices of the order up to 4x4
+## Practical No. 8 - 13.2.5 Write a C++ program for adding/ subtracting/ multiplying two integer matrices of the order up to 4x4
 
 ### Objective:
 The objective of this practical is to understand the usage of the `two-dimensional arrays` in C++.

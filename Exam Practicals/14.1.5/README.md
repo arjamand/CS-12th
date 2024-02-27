@@ -1,4 +1,4 @@
-## Practical No. 9 - 14.1.5 - Write a program involving user defined function to perform basic arithmetic operations, i.e. add, subtract, multiply and divide.
+## Practical No. 10 - 14.1.5 - Write a program involving user defined function to perform basic arithmetic operations, i.e. add, subtract, multiply and divide.
 
 ### Objective:
 The objective of this practical is to understand the usage of the `Funtions` in C++.
