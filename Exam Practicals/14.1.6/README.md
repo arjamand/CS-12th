@@ -1,4 +1,4 @@
-## Practical No. 10 - 14.1.6 - Write a program involving user defined function to calculate area of circle, triangle and parallelogram
+## Practical No. 11 - 14.1.6 - Write a program involving user defined function to calculate area of circle, triangle and parallelogram
 
 ### Objective:
 The objective of this practical is to understand the usage of the `User Defined Funtions` in C++.

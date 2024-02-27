@@ -1,4 +1,4 @@
-## Practical No. 5 - 12.2.4 - Write a C++ program that uses do while loop.
+## Practical No. 6 - 12.2.4 - Write a C++ program that uses do while loop.
 
 ### Objective:
 The objective of this practical is to understand the usage of the `do-while` loop in C++.
